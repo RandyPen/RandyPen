@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m [Sui](https://sui.io/) Ambassador, experienced in Sui Move Development. I teach Sui Intro Course in [Youtube](https://www.youtube.com/watch?v=lZHjmo2ngu0&list=PL9t2y-BKvZBT4Kz3cflHrQLDBbVmdKM8E).
-- 📫 How to reach me: pencoa42@gmail.com
+- 📫 How to reach me: orz@f2cafe.com
 
 <!--
 **RandyPen/RandyPen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
