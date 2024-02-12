@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m [Sui](https://sui.io/) Ambassador, experienced in Sui Move Smart Contract Development. I once created [tutorial videos](https://www.youtube.com/watch?v=lZHjmo2ngu0&list=PL9t2y-BKvZBT4Kz3cflHrQLDBbVmdKM8E) for Sui's official YouTube channel.
+- 🌱 Live in Shenzhen, close to hardware supplier. Can assist in purchasing miners or initiating DePIN projects.
+- 📫 How to reach me: pika042@hotmail.com
+
 <!--
 **RandyPen/RandyPen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
