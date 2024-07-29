@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m [Sui](https://sui.io/) Ambassador, experienced in Sui Move Smart Contract Development. I once created [tutorial videos](https://www.youtube.com/watch?v=lZHjmo2ngu0&list=PL9t2y-BKvZBT4Kz3cflHrQLDBbVmdKM8E) for Sui's official YouTube channel.
-- 🌱 Working for the Cetus Incubator, focusing on incubating projects within the Sui ecosystem.
+- 🌱 Working for the Cetus Incubator [apply](https://4bx69zjogri.typeform.com/to/MTZ4hMFN), focusing on incubating projects within the Sui ecosystem.
 - 📫 How to reach me: pika@cetus.zone
 
 <!--
